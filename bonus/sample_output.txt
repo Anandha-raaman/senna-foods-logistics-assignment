@@ -1,0 +1,78 @@
+============================================================
+      SENNA FOODS LOGISTICS - SAP DELIVERY SUMMARY REPORT      
+============================================================
+
+Delivery: 0080001234
+Shop: Sri Balaji Stores
+Items: 2
+Total Weight: 27.60 KG
+----------------------------------------
+Delivery: 0080001235
+Shop: Ganesh Mart
+Items: 2
+Total Weight: 17.20 KG
+----------------------------------------
+Delivery: 0080001236
+Shop: New Fresh Mart
+Items: 1
+Total Weight: INCOMPLETE (Missing weight data)
+----------------------------------------
+Delivery: 0080001237
+Shop: Om Provisions [UNREGISTERED IN LMS]
+Items: 1
+Total Weight: 5.60 KG
+----------------------------------------
+Delivery: 0080001238
+Shop: Lakshmi Traders
+Items: 3
+Total Weight: 25.20 KG
+----------------------------------------
+Delivery: 0080001239
+Shop: Annapoorna Supermarket
+Items: 2
+Total Weight: 98.50 KG
+----------------------------------------
+Delivery: 0080001240
+Shop: Royal Kirana
+Items: 1
+Total Weight: 51.00 KG
+----------------------------------------
+Delivery: 0080001241
+Shop: Daily Needs Store
+Items: 2
+Total Weight: 12.00 KG
+----------------------------------------
+Delivery: 0080001242
+Shop: Venkateshwara Provisions
+Items: 2
+Total Weight: 25.00 KG
+----------------------------------------
+Delivery: 0080001243
+Shop: Green Basket
+Items: 2
+Total Weight: 51.60 KG
+----------------------------------------
+Delivery: 0080001244
+Shop: Sai Ram Stores
+Items: 1
+Total Weight: 12.00 KG
+----------------------------------------
+Delivery: 0080001245
+Shop: City Fresh Mart
+Items: 2
+Total Weight: 13.60 KG
+----------------------------------------
+
+========================================
+         VALIDATION WARNINGS          
+========================================
+WARNING:
+Delivery 0080001236 has missing weight.
+
+========================================
+          CRITICAL ERRORS             
+========================================
+ERROR:
+Shop 0000100999 is not present in LMS.
+
+Processing complete.
